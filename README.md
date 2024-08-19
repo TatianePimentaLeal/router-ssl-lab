@@ -4,6 +4,6 @@
 
 Understand the aim of a certification by showing how simple it is to create and use a security certificate, and implement it in a server to encrypt all the information.
 
-## Learnin Institution
+## Learning Institution
 
-Descomplica - MBA in Information Security
+**Descomplica **- MBA in Information Security
